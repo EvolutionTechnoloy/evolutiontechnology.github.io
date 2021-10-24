@@ -1,1 +1,2 @@
-# Wayvine.github.io
+# Wayvine Company
+<title>Wayvine Company</title>
